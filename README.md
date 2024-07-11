@@ -1,2 +1,2 @@
 # PyMLStuff
-Trying out Karpathy's Zero to Hero Series
+Trying out different Machine Learning stuff to get better at it
